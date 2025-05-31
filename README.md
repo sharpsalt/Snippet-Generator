@@ -23,7 +23,7 @@
 
 ### Setup
 
-1. Clone this repository:
+1. Open Bash & Clone this repository:
 
 ```bash
 git clone https://github.com/sharpsalt/Snippet-Generator.git
