@@ -1,5 +1,33 @@
-# Snippet-Generator
-This Repository is Specially Made for Generating the Snippets which is useful in Competitive Programming
+
+## Overview
+
+**Snippet-Generator** is a flexible Node.js-based tool that generates reusable code snippets in JSON format compatible with Visual Studio Code. The generated snippets can be manually integrated into your VS Code snippet files or extensions, streamlining your coding workflow by providing fast, customizable snippet creation.
+
+---
+
+## Features
+
+- Generate snippet JSON for any programming language supported by VS Code  
+- Easily customizable snippet templates and parameters  
+- Lightweight and fast Node.js implementation  
+- Outputs snippet JSON ready to be merged into VS Code snippet files or extensions  
+
+---
+
+## Installation
+
+### Prerequisites
+
+- Node.js v14 or later installed  
+- Visual Studio Code installed  
+
+### Setup
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/sharpsalt/Snippet-Generator.git
+cd Snippet-Generator
 
 # Steps
 1) Make a file.txt file in your Text editor
