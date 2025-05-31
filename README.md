@@ -50,5 +50,3 @@ Cntrl + C
 6. Press the Snnipet Section and the Choose New
 7. Write XYZ.cpp (Assuming you do DP in C++)
 8. Paste it There write Desscription and Prefix for it and you are done with it.
-
-9. 
